@@ -20,7 +20,7 @@ title                    : "Site Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Your Name"
-description              : "An amazing website."
+description              : "IA-Cardiology-husa TEAM"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -288,8 +288,14 @@ defaults:
       type: posts
     values:
       layout: splash
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: # true
       share: true
       related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: splash
