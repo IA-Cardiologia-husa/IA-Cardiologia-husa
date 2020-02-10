@@ -3,7 +3,7 @@ title: "AI in Cardiology"
 layout: archive
 author_profile: true
 author: Acho
-date: 2020-02-10
+date: 2020-02-06
 # tags: [cardiology]
 # categories: [machine learning, deep learning]
 excerpt: "Literature review"
