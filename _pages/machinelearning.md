@@ -1,7 +1,7 @@
 ---
-layout: splash
+layout: archive
 permalink: /machinelearning/
-title: "Machine Learning Projects"
+title: "ML Projects"
 author_profile: true
 ---
 
