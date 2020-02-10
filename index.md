@@ -2,7 +2,13 @@
 title: 'Artificial Intelligence - Cardiology Department (Salamanca)'
 layout: splash
 header:
-  image: "/images/AI-TEAM.png"
+  header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: "/images/AI-TEAM.png"
+  actions:
+    - label: "Code"
+      url: "https://github.com/IA-Cardiologia-husa"
 ---
 
 # About us
