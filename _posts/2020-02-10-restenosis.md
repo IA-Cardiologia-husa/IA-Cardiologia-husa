@@ -1,5 +1,6 @@
 ---
 title: "Restenosis prediction"
+layout: archive
 author_profile: true
 author: Chechu
 date: 2020-02-10
