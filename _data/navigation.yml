@@ -1,9 +1,7 @@
 # main links
 main:
-  - title: "ML Projects"
-    url: /machinelearning/
-  - title: "DL Projects"
-    url: /deeplearning/
+  - title: "Projects"
+    url: /projects/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"

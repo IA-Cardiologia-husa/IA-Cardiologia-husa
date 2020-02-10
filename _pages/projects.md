@@ -1,7 +1,7 @@
 ---
 layout: splash
-permalink: /deeplearning/
-title: "DL Projects"
+permalink: /projects/
+title: "Projects"
 ---
 
 {% include group-by-array collection=site.posts field="tags" %}

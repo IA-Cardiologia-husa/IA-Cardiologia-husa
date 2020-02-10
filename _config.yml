@@ -289,7 +289,7 @@ defaults:
     values:
       layout: archive
       author_profile: false
-      read_time: true
+      read_time: # true
       comments: # true
       share: true
       related: true
