@@ -1,0 +1,105 @@
+# _data/_authors.yml
+
+Victor:
+ author:
+  name             : "Victor Vicente-Palacios"
+  avatar           : "/images/Victor.png"
+  bio              : "Clinical Data Scientist @Philips Healthcare"
+  location         : "Salamanca (Spain)"
+  email            : "victor.vicente.palacios@philips.com"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:victor.vicente.palacios@philips.com
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://victorvicpal.github.io"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/victorvicpal"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/victorvicpal"
+
+Pablo:
+ author:
+  name             : "Pablo Perez-Sanchez"
+  avatar           : "/images/Pablo.png"
+  bio              : "Undergraduate"
+  location         : "Salamanca (Spain)"
+  email            : "pablopsbm11@gmail.com"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:pablopsbm11@gmail.com
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      #url: "https://victorvicpal.github.io"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/pablops_11"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/pablopersa"
+
+Antonio:
+ author:
+  name             : "Antonio Sanchez-Puente"
+  avatar           : "/images/Antonio.png"
+  bio              : "PhD"
+  location         : "Salamanca (Spain)"
+  email            : "sanchez.puente.antonio@gmail.com"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:sanchez.puente.antonio@gmail.com 
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/iserp"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/asanchezpuente"
+Acho:
+ author:
+  name             : "P. Ignacio Dorado-Diaz"
+  avatar           : "/images/Acho.png"
+  bio              : "PhD"
+  location         : "Salamanca (Spain)"
+  email            : "pedro.dorado@gmail.com"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:pedro.dorado@gmail.com
+
+Chechu:
+ author:
+  name             : "Jesus M. Sampedro-Gomez"
+  avatar           : "/images/Chechu.png"
+  bio              : "Eng"
+  location         : "Salamanca (Spain)"
+  email            : "jsampedro@usal.es"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:jsampedro@usal.es
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/jsamgom"
+
+Alberto:
+ author:
+  name             : "Alberto Garcia-Galindo"
+  avatar           : "/images/Alberto.png"
+  bio              : "Statistian"
+  location         : "Salamanca (Spain)"
+  email            : "alberto_26796@usal.es "
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:alberto_26796@usal.es 
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Alberto267"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/Alber_267"

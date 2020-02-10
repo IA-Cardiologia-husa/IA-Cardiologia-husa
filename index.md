@@ -1,7 +1,7 @@
 ---
 title: 'Artificial Intelligence - Cardiology Department (Salamanca)'
 layout: splash
-author_profile: false
+author_profile: true
 ---
 
 # About us

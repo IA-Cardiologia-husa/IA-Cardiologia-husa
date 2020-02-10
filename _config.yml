@@ -108,14 +108,14 @@ analytics:
 # Site Author
 author:
   name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  avatar           : "/images/servicio.png"
+  bio              : "AI Cardio Team"
+  location         : "Salamanca (Spain)"
+  email            : "IA.Cardiologia.husa@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url: mailto:IA.Cardiologia.husa@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -146,7 +146,7 @@ footer:
       # url:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
-      # url:
+      url: "https://github.com/IA-Cardiologia-husa"
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
