@@ -1,6 +1,6 @@
 ---
 title: 'Artificial Intelligence - Cardiology Department (Salamanca)'
-layout: neon
+layout: splash
 author_profile: false
 ---
 
@@ -10,7 +10,7 @@ We are an awesome group
 
 ---
 
-You can check about our different projects on our [Github](https://github.com/IA-Cardiologia-husa) site
+You can check about our different projects on our [Github site](https://github.com/IA-Cardiologia-husa)
 
 
 ## Contact me
