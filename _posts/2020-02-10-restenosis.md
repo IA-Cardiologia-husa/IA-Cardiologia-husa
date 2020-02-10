@@ -1,10 +1,9 @@
 ---
 title: "Restenosis prediction"
+author_profile: true
 author: Chechu
 date: 2020-02-10
 tags: [machine learning, restenosis, PCI]
-header:
- image: "images/Chechu.png"
 excerpt: "Scientific Publication"
 ---
 # Restenosis (CJC)
