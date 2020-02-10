@@ -1,6 +1,5 @@
 ---
 title: "Restenosis prediction"
-permalink: /machinelearning/
 layout: archive
 author_profile: true
 author: Chechu
