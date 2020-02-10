@@ -1,16 +1,12 @@
 # _data/_authors.yml
-
 Victor:
- author:
-  name             : "Victor Vicente-Palacios"
-  avatar           : "/images/Victor.png"
-  bio              : "Clinical Data Scientist @Philips Healthcare"
-  location         : "Salamanca (Spain)"
-  email            : "victor.vicente.palacios@philips.com"
+  name        : "Victor Vicente-Palacios"
+  bio         : "Clinical Data Scientist @Philips Healthcare"
+  avatar      : "/images/Victor.png"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:victor.vicente.palacios@philips.com
+      url: "mailto:victor.vicente.palacios@philips.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://victorvicpal.github.io"
@@ -22,7 +18,6 @@ Victor:
       url: "https://github.com/victorvicpal"
 
 Pablo:
- author:
   name             : "Pablo Perez-Sanchez"
   avatar           : "/images/Pablo.png"
   bio              : "Undergraduate"
@@ -31,7 +26,7 @@ Pablo:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:pablopsbm11@gmail.com
+      url: "mailto:pablopsbm11@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       #url: ""
@@ -43,7 +38,6 @@ Pablo:
       url: "https://github.com/pablopersa"
 
 Antonio:
- author:
   name             : "Antonio Sanchez-Puente"
   avatar           : "/images/Antonio.png"
   bio              : "PhD"
@@ -52,15 +46,15 @@ Antonio:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:sanchez.puente.antonio@gmail.com 
+      url: "mailto:sanchez.puente.antonio@gmail.com" 
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/iserp"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/asanchezpuente"
+
 Acho:
- author:
   name             : "P. Ignacio Dorado-Diaz"
   avatar           : "/images/Acho.png"
   bio              : "PhD"
@@ -69,10 +63,9 @@ Acho:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:pedro.dorado@gmail.com
+      url: "mailto:pedro.dorado@gmail.com"
 
 Chechu:
- author:
   name             : "Jesus M. Sampedro-Gomez"
   avatar           : "/images/Chechu.png"
   bio              : "Eng"
@@ -81,13 +74,12 @@ Chechu:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:jsampedro@usal.es
+      url: "mailto:jsampedro@usal.es"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jsamgom"
 
 Alberto:
- author:
   name             : "Alberto Garcia-Galindo"
   avatar           : "/images/Alberto.png"
   bio              : "Statistian"
@@ -96,7 +88,7 @@ Alberto:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:alberto_26796@usal.es 
+      url: "mailto:alberto_26796@usal.es" 
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Alberto267"
