@@ -4,7 +4,8 @@ layout: archive
 author_profile: true
 author: Victor
 date: 2020-02-10
-tags: [deep learning, coronariography, segmentation]
+tags: [coronariography]
+categories: [deep learning, segmentation]
 excerpt: "LadderNet"
 ---
 # Coronary Artery Segmentation using LadderNet
