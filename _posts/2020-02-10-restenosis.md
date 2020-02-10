@@ -2,7 +2,7 @@
 title: "Restenosis prediction"
 layout: archive
 author_profile: true
-author: "Chechu"
+author: Chechu
 date: 2020-02-10
 tags: [machine learning, restenosis, PCI]
 excerpt: "Scientific Publication"
