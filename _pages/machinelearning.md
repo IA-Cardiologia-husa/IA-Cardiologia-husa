@@ -2,8 +2,6 @@
 layout: archive
 permalink: /machinelearning/
 title: "Machine Learning Projects"
-#header:
-  #image: "/images/AUSTRIA.png"
 ---
 
 {% include group-by-array collection=site.posts field="tags" %}
