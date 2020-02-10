@@ -6,7 +6,7 @@ Victor:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:victor.vicente.palacios@philips.com"
+      #url: "mailto:victor.vicente.palacios@philips.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://victorvicpal.github.io"
@@ -26,7 +26,7 @@ Pablo:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:pablopsbm11@gmail.com"
+      #url: "mailto:pablopsbm11@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       #url: ""
@@ -46,7 +46,7 @@ Antonio:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:sanchez.puente.antonio@gmail.com" 
+      #url: "mailto:sanchez.puente.antonio@gmail.com" 
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/iserp"
@@ -74,7 +74,7 @@ Chechu:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:jsampedro@usal.es"
+      #url: "mailto:jsampedro@usal.es"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jsamgom"
@@ -88,7 +88,7 @@ Alberto:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:alberto_26796@usal.es" 
+      #url: "mailto:alberto_26796@usal.es" 
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Alberto267"
