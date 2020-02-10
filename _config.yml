@@ -298,4 +298,4 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: archive
+      layout: splash

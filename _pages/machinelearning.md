@@ -2,6 +2,7 @@
 layout: archive
 permalink: /machinelearning/
 title: "Machine Learning Projects"
+author_profile: true
 ---
 
 {% include group-by-array collection=site.posts field="tags" %}
