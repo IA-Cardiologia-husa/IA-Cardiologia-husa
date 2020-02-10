@@ -4,7 +4,7 @@ layout: archive
 author_profile: true
 author: Antonio
 date: 2020-02-10
-tags: [echocardiogram]
+tags: [machine learning]
 categories: [machine learning]
 excerpt: "Cardioversion algorithm"
 ---
