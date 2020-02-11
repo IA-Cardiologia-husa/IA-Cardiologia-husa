@@ -4,8 +4,8 @@ layout: archive
 author_profile: true
 author: Antonio
 date: 2020-02-10
-tags: [machine learning]
-categories: [machine learning]
+tags: [Machine Learning]
+categories: [Machine Learning]
 excerpt: "Cardioversion algorithm"
 ---
 # Cardioversion models

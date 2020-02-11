@@ -4,8 +4,8 @@ layout: archive
 author_profile: true
 author: Acho
 date: 2020-02-06
-tags: [machine learning]
-categories: [machine learning]
+tags: [Machine Learning]
+categories: [Machine Learning]
 excerpt: "Literature review"
 ---
 # AI in Cardiology (REC)
