@@ -11,10 +11,10 @@ header:
       url: "https://github.com/IA-Cardiologia-husa"
 feature_row:
   - image_path: /images/ibsal.png
-    alt: "placeholder image 1"
+    alt: "ibsal logo"
     url: "http://innovacion.ibsal.es/en/"
   - image_path: /images/cibercv.png
-    alt: "placeholder image 2"
+    alt: "cibercv logo"
     url: "https://www.cibercv.es/en"
 ---
 
@@ -24,7 +24,7 @@ feature_row:
 
 ---
 
-# Partners
+# Institutions
 
 {% include feature_row id="intro" type="center" %}
 

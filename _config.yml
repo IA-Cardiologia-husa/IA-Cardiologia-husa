@@ -143,10 +143,10 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/IA-Cardiologia-husa"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
-      url: "https://github.com/IA-Cardiologia-husa"
+      #url: "https://github.com/IA-Cardiologia-husa"
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:

@@ -2,6 +2,11 @@
 layout: splash
 permalink: /projects/
 title: "Projects"
+header:
+  header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: "/images/AI-TEAM.png"
 ---
 
 {% include group-by-array collection=site.posts field="tags" %}
