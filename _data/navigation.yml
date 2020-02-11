@@ -4,7 +4,7 @@ main:
     url: /projects/
   - title: "Publications"
     url: /publications/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "Talks"
+    url: /talks/
   # - title: "Sitemap"
   #   url: /sitemap/
