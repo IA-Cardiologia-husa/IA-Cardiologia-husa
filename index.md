@@ -9,15 +9,19 @@ header:
   actions:
     - label: "Code"
       url: "https://github.com/IA-Cardiologia-husa"
-  gallery:
-    - url: /images/ibsal.jpg
-      image_path: /images/ibsal.jpg
-      alt: "placeholder image 1"
-      title: "Image 1 title caption"
-    - url: /images/cibercv.jpg
-      image_path: /images/cibercv.jpg
-      alt: "placeholder image 2"
-      title: "Image 2 title caption"
+feature_row:
+  - image_path: /images/ibsal.jpg
+    alt: "placeholder image 1"
+    title: "Placeholder 1"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: /images/cibercv.jpg
+    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
+    alt: "placeholder image 2"
+    title: "Placeholder 2"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 
 # About us
