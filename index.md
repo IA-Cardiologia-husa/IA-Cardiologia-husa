@@ -13,7 +13,6 @@ header:
 
 # About us
 
-{% video /video/promo_video.mp4 %}
 
 ---
 
