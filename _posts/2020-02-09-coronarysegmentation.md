@@ -13,7 +13,7 @@ excerpt: "LadderNet"
 In the past years, many automatic segmentation strategies based on Deep Learning (LeCun, 2015) methodologies have been proposed for vessel segmentation.
 In this work we aim to train a LadderNet (Zhuang, 2019) network for coronary artery segmentation. Two different patch-to-patch training approaches (Sekoua, 2019) are compared.
 
-![image-center](/images/LadderNet.png){: .align-center}
+![image-center](/images/laddernet/LadderNet.png){: .align-center}
 
 ## Methods
 LadderNet was composed by two attached U-Nets (Ronneberger, 2015), with two encoder and two decoder branches in total. 
