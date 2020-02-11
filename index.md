@@ -13,7 +13,7 @@ header:
 
 # About us
 
-{% video {{ site.cdn }}/video/promo_video.mp4 %}
+{% video /video/promo_video.mp4 %}
 
 ---
 
