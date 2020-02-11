@@ -12,11 +12,9 @@ header:
 feature_row:
   - image_path: /images/ibsal.png
     alt: "placeholder image 1"
-    title: "IBSAL"
     url: "http://innovacion.ibsal.es/en/"
   - image_path: /images/cibercv.png
     alt: "placeholder image 2"
-    title: "CIBERCV"
     url: "https://www.cibercv.es/en"
 ---
 
