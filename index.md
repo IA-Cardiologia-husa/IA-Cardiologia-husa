@@ -13,11 +13,9 @@ header:
 
 # About us
 
-<blockquote class="twitter-tweet"><p lang="es" dir="ltr"><a href="https://twitter.com/hashtag/Hospitales2019?src=hash&amp;ref_src=twsrc%5Etfw">#Hospitales2019</a> La Inteligencia Artificial se une a la Cardiología para mejorar el seguimiento y el diagnóstico del paciente. ¡Conoce este proyecto que ha puesto en marcha el Hospital Universitario de Salamanca! <a href="https://t.co/OTMhydg8fH">https://t.co/OTMhydg8fH</a> <a href="https://twitter.com/hashtag/21CNH?src=hash&amp;ref_src=twsrc%5Etfw">#21CNH</a> <a href="https://t.co/b90DO8CRzg">pic.twitter.com/b90DO8CRzg</a></p>&mdash; Philips Spain (@PhilipsSpain) <a href="https://twitter.com/PhilipsSpain/status/1126817439487070208?ref_src=twsrc%5Etfw">May 10, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{% video {{ site.cdn }}/video/promo_video.mp4 %}
 
 ---
-
-You can check about our different projects on our [Github site](https://github.com/IA-Cardiologia-husa)
 
 
 ## Contact us
