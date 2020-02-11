@@ -29,12 +29,12 @@ The second training method consisted in:
 ⋅⋅* Segmentation of subdataset2 
 ⋅⋅* Using the weights from the first training strategy as starting point, the network was retrained with subdataset2
 
-![image-center](/images/strategy.png){: .align-center}
+![image-center](/images/laddernet/strategy.png){: .align-center}
 
 ## Results
 Figure 1 shows the results evaluated over the second dataset. The quality of the segmentation obtained with the second strategy is better, the delineation of the vessels is more accurate.
 
-![image-center](/images/results_final.png){: .align-center}
+![image-center](/images/laddernet/results_final.png){: .align-center}
 
 ## Discussion and conclusion
 Some differences between the two results could be explained by differences in the two training subdatasets, as the presence of the catheter and a lower homogeneity within the big vessels in the second case.  
